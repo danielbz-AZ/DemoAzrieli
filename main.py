@@ -1,4 +1,4 @@
 print('Hello World:')
-x = int(input('enter number:')
+x = 123
 print(x)
 input()
